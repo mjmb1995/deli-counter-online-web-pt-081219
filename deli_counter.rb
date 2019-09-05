@@ -10,6 +10,6 @@ def line(array)
       string += "#{counter}. #{name}"
       counter += 1
     end
-    return string
+    puts string
   end
 end
